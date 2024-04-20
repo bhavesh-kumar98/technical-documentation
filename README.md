@@ -1,6 +1,6 @@
 # Technical Documentation 
 
-Welcome to our Technical Documentation page! 🍔🌮
+Welcome to our Technical Documentation page! 📃👩‍💻
 
 This project showcases a responsive web page for Technical Documentation. Whether you're on your desktop or mobile device, our website is designed to provide an optimal and user-friendly experience.
 
